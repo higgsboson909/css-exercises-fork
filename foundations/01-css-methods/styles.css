@@ -2,6 +2,9 @@ div{
     background-color: red;
     color: white;
     font-size: 18px; 
+    font-weight: bold;
+    text-align: center;
+    
 }
 
 p{
