@@ -8,13 +8,12 @@
     font-size: 36px;
 }
 
-.thirdEl
+.adjust-font-size
 {
     font-size: 24px;
 }
 
 #fourthEl{
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
