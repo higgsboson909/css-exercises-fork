@@ -24,3 +24,31 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Addition goes here */
+
+
+.info{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.title{
+  margin-bottom: 32px;
+
+}
+
+
+.item1,
+.item2,
+.item3,
+.item4{
+  max-width: 200px;
+}
+
+div{
+  text-align: center;
+}
+
+
