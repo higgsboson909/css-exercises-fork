@@ -1,3 +1,6 @@
+*{
+  padding: 0;
+}
 .header  {
   font-family: monospace;
   background: papayawhip;
@@ -23,3 +26,25 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+/* Addition starts here */
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul{
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+
+
+
+
+
+
